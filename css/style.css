@@ -1,0 +1,33 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url(../Assets/images/cod.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.titre {
+  color: blueviolet;
+}
+.bar {
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+  position: absolute;
+  width: 100%;
+}
+.banner-content h1 {
+  font-weight: bold;
+  color: black;
+  font-size: 70px;
+}
+.bn h1 {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  font-size: 70px;
+}
